@@ -1,4 +1,5 @@
 Weather Application
+
 Description:
 Create a simple weather application that displays the current weather information for a given location. The application should fetch weather data from an API and present it in a user-friendly manner.
 
@@ -10,6 +11,7 @@ Display the following weather information: - Current temperature - Weather descr
 Display appropriate weather icons or images based on the weather condition.
 Handle errors gracefully and provide meaningful error messages if the API request fails or if the location is not found.
 Add any additional features or enhancements that you think would improve the application.
+
 Instructions:
 Fork or clone this repository to start working on the assignment.
 Use any additional libraries or frameworks if necessary, but make sure to justify your choices in the code or documentation.
@@ -25,6 +27,7 @@ Code quality, including organization, readability, and proper use of HTML, CSS, 
 Proper handling of API requests and error cases.
 Implementation of required features and functionality.
 Creativity and additional enhancements.
+
 Note: Feel free to customize or modify the assignment as per your specific requirements or to focus on certain aspects of frontend development that are
 
 Weather App
